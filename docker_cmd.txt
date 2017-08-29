@@ -1,0 +1,1 @@
+SPLAY -v $HOME/.Xauthority:/home/oracle/.Xauthority -v $HOME/sqldeveloper:/home/oracle/sqldeveloper --net=host sqldeveloper
